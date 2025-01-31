@@ -3,7 +3,7 @@
 
 Parse and play [RTTTL](RTTTL.md) files.
 
-[Demo!](http://andresa-pixel.github.io/rtttl.js/)
+[Demo!](http://andresa-pixel.github.io/play.js/)
 
 <!--
 ## Usage
